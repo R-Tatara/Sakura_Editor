@@ -1,0 +1,4 @@
+//改行の削除後、句点の後で改行
+S_ReplaceAll('\r\n', '', 20);
+S_ReplaceAll('。', '。\r\n', 20);
+S_ReDraw(0);

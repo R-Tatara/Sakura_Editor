@@ -1,0 +1,3 @@
+//‰üs‚ğíœ
+S_ReplaceAll('\r\n', '', 20);
+S_ReDraw(0);
